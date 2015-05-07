@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GongYShGL602</key>
+	<string>&lt;soapenv:Envelope xmlns:soapenv=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:sap=&quot;http://sap.move.com/&quot;&gt;&lt;soapenv:Header/&gt;&lt;soapenv:Body&gt;&lt;sap:ResultDetailsQuery&gt;&lt;!--Optional:--&gt;&lt;arg0&gt;&amp;lt;?xml version=&apos;1.0&apos; encoding=&apos;utf-8&apos;?&amp;gt;&amp;lt;xuanShang&amp;gt;&amp;lt;row&amp;gt;&amp;lt;approveId&amp;gt;</string>
+	<key>GongYShGL601</key>
+	<string>&lt;soapenv:Envelope xmlns:soapenv=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:sap=&quot;http://sap.move.com/&quot;&gt;&lt;soapenv:Header/&gt;&lt;soapenv:Body&gt;&lt;sap:ResultAppListQuery&gt;&lt;!--Optional:--&gt;&lt;arg0&gt;&amp;lt;?xml version=&apos;1.0&apos; encoding=&apos;utf-8&apos;?&amp;gt;&amp;lt;xuanShang&amp;gt;&amp;lt;row&amp;gt;&amp;lt;gfEmail&amp;gt;</string>
+	<key>ZhaoBTP312</key>
+	<string>&lt;soapenv:Envelope xmlns:soapenv=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:sap=&quot;http://sap.move.com/&quot;&gt;&lt;soapenv:Header/&gt;&lt;soapenv:Body&gt;&lt;sap:talkResultDetails&gt;&lt;!--Optional:--&gt;&lt;arg0&gt;&amp;lt;?xml version=&apos;1.0&apos; encoding=&apos;utf-8&apos;?&amp;gt;&amp;lt;xuanShang&amp;gt;&amp;lt;row&amp;gt;&amp;lt;approveId&amp;gt;</string>
+	<key>ZhaoBTP311</key>
+	<string>&lt;soapenv:Envelope xmlns:soapenv=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:sap=&quot;http://sap.move.com/&quot;&gt;&lt;soapenv:Header/&gt;&lt;soapenv:Body&gt;&lt;sap:TalkResultListQuery&gt;&lt;!--Optional:--&gt;&lt;arg0&gt;&amp;lt;?xml version=&apos;1.0&apos; encoding=&apos;utf-8&apos;?&amp;gt;&amp;lt;xuanShang&amp;gt;&amp;lt;row&amp;gt;&amp;lt;gfEmail&amp;gt;</string>
+	<key>ZhaoBTB302</key>
+	<string>&lt;soapenv:Envelope xmlns:soapenv=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:sap=&quot;http://sap.move.com/&quot;&gt;&lt;soapenv:Header/&gt;&lt;soapenv:Body&gt;&lt;sap:appDetailsQuery&gt;&lt;!--Optional:--&gt;&lt;arg0&gt;&amp;lt;?xml version=&apos;1.0&apos; encoding=&apos;utf-8&apos;?&amp;gt;&amp;lt;xuanShang&amp;gt;&amp;lt;row&amp;gt;&amp;lt;approveId&amp;gt;</string>
+	<key>ZhaoBTB301</key>
+	<string>&lt;soapenv:Envelope xmlns:soapenv=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:sap=&quot;http://sap.move.com/&quot;&gt;&lt;soapenv:Header/&gt;&lt;soapenv:Body&gt;&lt;sap:resultAppListQuery&gt;&lt;!--Optional:--&gt;&lt;arg0&gt;&amp;lt;?xml version=&apos;1.0&apos; encoding=&apos;utf-8&apos;?&amp;gt;&amp;lt;xuanShang&amp;gt;&amp;lt;row&amp;gt;&amp;lt;gfEmail&amp;gt;</string>
+	<key>WuZGL102</key>
+	<string>&lt;soapenv:Envelope xmlns:soapenv=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:sap=&quot;http://sap.move.com/&quot;&gt;&lt;soapenv:Header/&gt;&lt;soapenv:Body&gt;&lt;sap:planAppDetailsQuery&gt;&lt;!--Optional:--&gt;&lt;arg0&gt;&amp;lt;?xml version=&apos;1.0&apos; encoding=&apos;utf-8&apos;?&amp;gt;&amp;lt;xuanShang&amp;gt;&amp;lt;row&amp;gt;&amp;lt;approveId&amp;gt;</string>
+	<key>WuZGL101</key>
+	<string>&lt;soapenv:Envelope xmlns:soapenv=&quot;http://schemas.xmlsoap.org/soap/envelope/&quot; xmlns:sap=&quot;http://sap.move.com/&quot;&gt;&lt;soapenv:Header/&gt;&lt;soapenv:Body&gt;&lt;sap:planAppListQuery&gt;&lt;!--Optional:--&gt;&lt;arg0&gt;&amp;lt;?xml version=&apos;1.0&apos; encoding=&apos;utf-8&apos;?&amp;gt;&amp;lt;xuanShang&amp;gt;&amp;lt;row&amp;gt;&amp;lt;gfEmail&amp;gt;</string>
+</dict>
+</plist>

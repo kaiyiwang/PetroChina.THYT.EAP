@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9F899822-8579-4A70-B60E-68648F596336</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PetroChina.THYT</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ae46a0d7-76ef-3745-81d2-fc4b947cb2c4</key>
+		<string>https://211.149.170.26/svn/PetroChina.THYT.EAP.iOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PetroChina.THYT.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ae46a0d7-76ef-3745-81d2-fc4b947cb2c4</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ae46a0d7-76ef-3745-81d2-fc4b947cb2c4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ae46a0d7-76ef-3745-81d2-fc4b947cb2c4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PetroChina.THYT.EAP</string>
+		</dict>
+	</array>
+</dict>
+</plist>
